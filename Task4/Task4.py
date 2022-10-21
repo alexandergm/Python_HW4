@@ -44,7 +44,7 @@ def create_data(fact_list: list):
 
 
 def write_file(text: str):
-    with open('ex3_file.txt', 'w') as data:
+    with open('Task_4.txt', 'w') as data:
         data.write(text)
 
 
